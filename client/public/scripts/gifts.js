@@ -1,3 +1,0 @@
-const renderGifts = async () => {
-    
-}
